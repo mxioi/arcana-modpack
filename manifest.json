@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Arcana - Server Matched",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "mxioi",
   "overrides": "overrides",
   "files": [
@@ -1683,6 +1683,71 @@
     {
       "projectID": 394468,
       "fileID": 8382328,
+      "required": true
+    },
+    {
+      "projectID": 1105290,
+      "fileID": 6040674,
+      "required": true
+    },
+    {
+      "projectID": 915902,
+      "fileID": 8177588,
+      "required": true
+    },
+    {
+      "projectID": 363363,
+      "fileID": 7895926,
+      "required": true
+    },
+    {
+      "projectID": 638111,
+      "fileID": 6372979,
+      "required": true
+    },
+    {
+      "projectID": 1121832,
+      "fileID": 6416604,
+      "required": true
+    },
+    {
+      "projectID": 583228,
+      "fileID": 7965880,
+      "required": true
+    },
+    {
+      "projectID": 854213,
+      "fileID": 6830399,
+      "required": true
+    },
+    {
+      "projectID": 1254143,
+      "fileID": 8206645,
+      "required": true
+    },
+    {
+      "projectID": 455508,
+      "fileID": 8242804,
+      "required": true
+    },
+    {
+      "projectID": 561885,
+      "fileID": 6290230,
+      "required": true
+    },
+    {
+      "projectID": 1172594,
+      "fileID": 7508312,
+      "required": true
+    },
+    {
+      "projectID": 410295,
+      "fileID": 5453385,
+      "required": true
+    },
+    {
+      "projectID": 391382,
+      "fileID": 6981252,
       "required": true
     }
   ]
