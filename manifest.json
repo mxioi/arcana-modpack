@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Arcana - Server Matched",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "mxioi",
   "overrides": "overrides",
   "files": [
@@ -1678,6 +1678,11 @@
     {
       "projectID": 1015146,
       "fileID": 5812546,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 8382328,
       "required": true
     }
   ]
